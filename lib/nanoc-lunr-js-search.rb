@@ -1,0 +1,1 @@
+require 'nanoc/filters/lunr_js_search'
